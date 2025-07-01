@@ -1,6 +1,6 @@
 ## Overview
 
-This project contains the 3D design file for a robotic arm with 5 degrees of freedom (DOF).
+This project contains the 3D design file for a robotic arm with 5 degrees of freedom using [Tinkercad](https://www.tinkercad.com/).
 
 ## Degrees of Freedom
 
